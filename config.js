@@ -1,15 +1,14 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮FELI BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮luisfgaleanobaneado@gmail.com
+//▮WHATSAPP US : +57 304 6675145
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,7 +16,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING FELIBOT
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -37,14 +36,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','447441437150']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['573045575145','573045575145']
+global.premium = ['573045575145','573045575145']
+global.botname = 'FeliBot'
+global.ownername = 'FelipoxD'
+global.group1 = 'https://chat.whatsapp.com/BKBoFVoGHFs115QwxgyPSY'
+global.group2 = 'https://chat.whatsapp.com/BKBoFVoGHFs115QwxgyPSY'
+global.packname = 'FeliBot'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -70,16 +68,16 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    admin: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
-    private: '*this feature can only used in dm okay*',
+    success: '*éxito, whoa*',
+        ban: '*Perdón, parece que te han baneado 😔😔 escribe .owner para pedir un desban, ¿okay?*',
+    admin: '*este comando es exclusivo para el dueño, te pido mil disculpas*',
+    botAdmin: '*Con todo respeto, ¿Puedes darme admin en el bot?*',
+    owner: '*este comando es exclusivo para el dueño, te pido mil disculpas*',
+    group: '*Esta característica es para grupos, nada más*',
+    private: '*Solo disponible en dm ¿okay?*',
     bot: '*Special Features for User Bot Number okay*',
     wait: '*whoa wait zim bot processing okay*',
-    endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
+    endLimit: '*Hermanos, el límite diario ha expirado, escriba .buy limit amount limit para comprar límite, Nota: El límite se restablecerá cada 12 horas*',
 }
 global.limitawal = {
     premium: "Infinity",
